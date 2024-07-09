@@ -1,8 +1,12 @@
 # codsoft_task3
-This is a simple Python script for generating random passwords with customizable options for including uppercase letters, numbers, and special characters.
+## Password Generator
 
-Features
-Generate a password of desired length (minimum 8 characters).
-Option to include uppercase letters.
-Option to include numbers.
-Option to include special characters.
+This Python script generates a random password based on user-specified criteria.
+### Features:
+1.Generates a secure random password based on user-defined criteria.
+
+2.Supports varying lengths of passwords (minimum of 8 characters).
+
+3.Options to include uppercase letters, numbers, and special characters to increase complexity.
+
+4.Simple and straightforward command-line interface.
